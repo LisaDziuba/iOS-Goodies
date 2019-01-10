@@ -21,6 +21,7 @@
 **UI/UX**
 
 * [Embracing Your Animated Future](https://medium.com/movingui/embracing-your-animated-future-67f963063251), by [@createwithflow](https://twitter.com/createwithflow)
+* [Sound collection from popular mobile apps](https://uisounds.prototypr.io/), by [@graeme_fulton](https://twitter.com/@graeme_fulton)
 
 **Videos**
 
